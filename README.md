@@ -6,10 +6,10 @@
 
 An end-to-end machine learning application that evaluates a borrower's likelihood of loan repayment. This project features a **FastAPI** backend and a responsive frontend to provide real-time risk assessments.
 
-## 🚀 Overview
+## Overview
 Financial institutions use credit scoring to determine if a loan should be granted. This tool uses a **Random Forest Classifier** to analyze variables like income, loan intent, and credit history to predict risk categories.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Backend:** FastAPI, Uvicorn (ASGI server)
 - **Machine Learning:** Scikit-learn, Pandas, Joblib
 - **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
